@@ -52,6 +52,7 @@ console.log(Math.random());          // Always 0.9282578795792454
 console.log(Math.random());          // Always 0.3752569768646784
 
 ```
+Try script tag usage in realtime html editor [playground](https://goonlinetools.com/realtime-html-editor/#glnkioehpiv0iwo4n26hse)
 
 **Note**: calling `Math.seedrandom('constant')` without `new` will make
 `Math.random()` predictable globally, which is intended to be useful for
